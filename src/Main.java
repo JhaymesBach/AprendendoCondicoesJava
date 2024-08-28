@@ -10,12 +10,12 @@ public class Main {
          */
 
 
-        if (idadePessoa > 21) ;
-        System.out.println("é maior que 21");
-    }else{
-        System.out.println("Nao é maior");
+        if (idadePessoa > 21) {
+            System.out.println("é maior que 21");
+        } else {
+            System.out.println("Nao é maior");
 
+        }
     }
-
 
 }
